@@ -67,4 +67,36 @@ I’m also an experienced **teacher**, and love sharing knowledge, making learni
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skillfuldp&show_icons=true&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillfuldp&layout=compact&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=skillfuldp&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 🌐 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skillfuldp&bg_color=0d1117&color=ffffff&line=5BCDEC&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
 > “Creativity is intelligence having fun.” – Albert Einstein
