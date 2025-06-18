@@ -86,7 +86,7 @@ I’m also an experienced **teacher**, and love sharing knowledge, making learni
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=skillfuldp&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillfuldp&theme=radical&hide_border=false" width="500" height="200" />
 </div>
 
 ---
