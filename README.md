@@ -67,30 +67,6 @@ I’m also an experienced **teacher**, and love sharing knowledge, making learni
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skillfuldp&show_icons=true&theme=radical&hide_border=false" width="500" height="200" />
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skillfuldp&layout=compact&theme=radical&hide_border=false" width="500" height="200" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skillfuldp&theme=radical&hide_border=false" width="500" height="200" />
-</div>
-
----
-
 ## 🌐 Contribution Graph
 
 <div align="center">
